@@ -1,7 +1,10 @@
 # VagueMc
 VagueMc is a Minecraft Prison Server [1.8.x-1.14.x] | IP: Play.VagueMc.xyz
 
-  We have created this GitHub Respitory to give our community fully transpaency of what is going on behind the sceans. We aren't putting this on our main website as we don't beleive that everyone has the same interest. Some members want to know while others don't. So this gives us the best of both worlds!
+Hello VagueMc community members!
+We have a very important annoucement, we have decided to make behind the sceans of VagueMc PUBLIC! But not only have we done this we have also added an Wiki for those who would like to know more about our server. We have decided to do this to show complete transparency to our community members, after all we are here to serve you! If you are interested in seeing out To-Do-List(TDL) please check out the "Projects" tab located towards the top of these page. This will show you exactly what suggestions we are considering, what we have planned to work on, what is currently being worked on, and what we have finished! Each update will have its only "Developer Log/TDL." Thank-you so much for being such an amazing community!
+
+-- VagueMc Team
 
 Copyright © VagueMc 2020. All Rights Reserved.
 We are not affiliated with Mojang AB.
